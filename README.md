@@ -1,5 +1,5 @@
 # Design-and-Analysis-of-Algorithm
-- In  this Repository, You can get all the Important Alhorithm's Concept and Code.
+- In  this Repository, You can get all the Important Algorithm's Concept and Code.
 ## Topic :
  1. N- Queens Problem.
  2. Graph Colouring Problem.
